@@ -1,0 +1,1 @@
+This project leverages MongoDB to create an interactive Sales Dashboard, providing insights into sales trends, customer segmentation, product profitability, and shipping performance. It visualizes key metrics such as total sales over time, top customers, sales per segment, and delivery risks, enabling data-driven decision-making for business growth and efficiency.
